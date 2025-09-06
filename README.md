@@ -5,9 +5,11 @@ Check out some of my latest projects:
 
 * 🔎 Productivity tool aimed for my role as Smart Energy Engineer --> [CTrack](https://ctrack-app-7613567699ef.herokuapp.com/)
   - Technologies: Python, JavaScript, CSS, HTML, Bootstrap, Django, PostgreSQL db.
+    
 * 🎮 Single Player mini game --> [Spot it!](https://john-ssl.github.io/Milestone-Project-2/)
   - Technologies: JavaScript, CSS, HTML, Bootstrap.
-* 🌇 Web site for made up company that offers guided tours --> [London Tours](https://john-ssl.github.io/Milestone-Project-1/)
+    
+* 🌇 Web site for a company that offers guided tours --> [London Tours](https://john-ssl.github.io/Milestone-Project-1/)
   - Technologies: HTML, CSS & Bootstrap.
 <!--
 **John-SSL/John-SSL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
