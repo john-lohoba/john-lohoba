@@ -1,6 +1,6 @@
 ## Junior Dev
 
-Discovering a new passion for software development while studying with Code Insitute.  
+Discovering a new passion for software development.  
 Check out some of my latest projects:
 
 * 🚀 Crypto backtesting app. --> [Tbo](https://tbo-app-4663a8d1ae01.herokuapp.com/)
