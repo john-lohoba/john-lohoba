@@ -3,7 +3,7 @@
 Discovering a new passion for software development.  
 Check out some of my latest projects:
 
-* 🚀 Crypto backtesting app. --> [Tbo](https://tbo-app-4663a8d1ae01.herokuapp.com/)
+* 🚀 Trading backtesting app. --> [Tbo](https://tbo-app-4663a8d1ae01.herokuapp.com/)
   - Technologies: Python, JavaScript, CSS, HTML, Django, Stripe.
 
 * 🔎 Productivity tool aimed for my role as Smart Energy Engineer --> [CTrack](https://ctrack-app-7613567699ef.herokuapp.com/)
